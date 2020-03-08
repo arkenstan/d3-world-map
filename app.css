@@ -1,0 +1,13 @@
+.world-map-wrapper {
+	width: 600px;
+	height: 600px;
+	background: skyblue;
+	width: 965px;
+	height: 505px;
+	border: 3px solid steelblue;
+}
+path {
+	stroke: white;
+	stroke-width: 0.5px;
+	fill: #ebebe0;
+}
